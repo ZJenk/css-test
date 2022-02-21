@@ -1,4 +1,4 @@
-/**Last update: January 5, 2022 **/
+/**Last update: February 21, 2022 CS **/
 /** ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
 These are styles from the FLNA UI 
@@ -86,7 +86,7 @@ h4.icon::before {
   top: 5px;
 }
 h4.icon.star-ribbon::before {
-  background-image: url(https://www.mypepsico.com/ep/flna/DSL_Destination/HTML5%20Demos/SalesHub/images/star-banner-23x30.png);
+  background-image: url(https://www.mypepsico.com/ep/flna/DSL_Destination/myeveryday-template-files/images/icons/star-banner-23x30.png);
 }
 h4.callout {
   margin-top: 10px;
@@ -153,9 +153,7 @@ img {
     background-color: transparent !important;
     outline: 0;
     border-color: inherit;
-    border-top: 1px solid #DFDFDF;
-    border-right: 1px solid #DFDFDF;
-    border-bottom: 1px solid #DFDFDF;
+    border: 1px solid #DFDFDF;
 	color:#FA9614;
 }
 
@@ -321,9 +319,7 @@ begin styles for pill style with modal poups
 	}
 	.content-bar-inner-container button:hover {
 		background-color: #fff;
-		border-top: 1px solid #DFDFDF;
-		border-right: 1px solid #DFDFDF;
-		border-bottom: 1px solid #DFDFDF;
+		border: 1px solid #DFDFDF;
 		color: #FA9614;
 	}
 	.content-bar-inner-container button:hover h3 {
